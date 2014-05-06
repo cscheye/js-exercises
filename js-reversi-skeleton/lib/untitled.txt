@@ -1,0 +1,5 @@
+var color = "white";
+
+var outer = function() {
+  console.log(color);
+}
